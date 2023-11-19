@@ -1,8 +1,6 @@
 # EECS4415-Big Data Systems: Project 1 (10%)
 
 **Title:** Single Machine Big Data Analytics using Python Language   
-**Start:** January 23, 2023, @ 9:00am EST   
-**Due:** February 6, 2023, by 9:00pm EST
 
 ## Objectives
 
